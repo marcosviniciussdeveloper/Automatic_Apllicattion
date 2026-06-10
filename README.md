@@ -28,7 +28,7 @@ O fluxo abaixo representa o ciclo completo de automação da infraestrutura:
 
 O diagrama abaixo representa o fluxo completo de automação da infraestrutura, desde o commit do desenvolvedor até o provisionamento automatizado na AWS utilizando Terraform e GitHub Actions.
 
-![Diagrama de Arquitetura](./images/Arquitetura.drawio.png)
+![Diagrama de Arquitetura](./Images/Arquitetura.drawio.png)
 
 
 ---
